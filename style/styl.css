@@ -132,9 +132,11 @@ body {
   color: #8a4b6b;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .player {
-    width: 100%;
+    width: 200px;
+    transform: scale(0.9);
+    transform-origin: left top;
     max-width: 300px;
   }
 }
