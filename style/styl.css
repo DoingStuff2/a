@@ -60,7 +60,6 @@ html {
 
 body {
     margin: 0;
-    padding-top: env(safe-area-insert-top);
     font-size: 1.1rem;
     background: #ffe6ec;
     font-family: Verdana, 'Segoe UI', Tahoma, Geneva, sans-serif;
