@@ -2,50 +2,50 @@ const songs = [
   {
     title: "Love On The Brain",
     artist: "Rihanna",
-    src: "../audio/Love-On-The-Brain.mp3",
-    cover: "../images/Love-On-The-Brain.jpg"
+    src: "audio/Love-On-The-Brain.mp3",
+    cover: "images/Love-On-The-Brain.jpg"
   },
   {
     title: "Marry You",
     artist: "Bruno Mars",
-    src: "../audio/Marry-You.mp3",
-    cover: "../images/Marry-You.jpg"
+    src: "audio/Marry-You.mp3",
+    cover: "images/Marry-You.jpg"
   },
   {
     title: "Just The Way You Are",
     artist: "Bruno Mars",
-    src: "../audio/Just-The-Way-You-Are.mp3",
-    cover: "../images/Just-The-Way-You-Are.jpg"
+    src: "audio/Just-The-Way-You-Are.mp3",
+    cover: "images/Just-The-Way-You-Are.jpg"
   },
   {
     title: "Replay",
     artist: "Iyaz",
-    src: "../audio/Replay.mp3",
-    cover: "../images/Replay.jpg"
+    src: "audio/Replay.mp3",
+    cover: "images/Replay.jpg"
   },
   {
     title: "Every Breath You Take",
     artist: "The Police",
-    src: "../audio/Every-Breath-You-Take.mp3",
-    cover: "../images/Every-Breath-You-Take.jpg"
+    src: "audio/Every-Breath-You-Take.mp3",
+    cover: "images/Every-Breath-You-Take.jpg"
   },
   {
     title: "Die For You",
     artist: "The Weeknd",
-    src: "../audio/Die-For-You.mp3",
-    cover: "../images/Die-For-You.jpg"
+    src: "audio/Die-For-You.mp3",
+    cover: "images/Die-For-You.jpg"
   },
   {
     title: "I Wanna Be Yours",
     artist: "Arctic Monkeys",
-    src: "../audio/I-Wanna-Be-Yours.mp3",
-    cover: "../images/I-Wanna-Be-Yours.jpg"
+    src: "audio/I-Wanna-Be-Yours.mp3",
+    cover: "images/I-Wanna-Be-Yours.jpg"
   },
   {
     title: "Here With Me",
     artist: "d4vd",
-    src: "../audio/Here-With-Me.mp3",
-    cover: "../images/Here-With-Me.jpg"
+    src: "audio/Here-With-Me.mp3",
+    cover: "images/Here-With-Me.jpg"
   }
 ];
 

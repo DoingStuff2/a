@@ -78,5 +78,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "../html/index-glowny.html";
+    window.location.href = "index-glowny.html";
 }
